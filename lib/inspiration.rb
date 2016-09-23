@@ -9,7 +9,9 @@ class Inspiration
       "Have I told you how good you look today?",
       "This is amazing stuff.",
       "I love it!",
-      "Just keep swimming."]
+      "Just keep swimming.",
+      "Thank you for working so hard!",
+      "You are amazing. Seriously."]
   end
 
 
