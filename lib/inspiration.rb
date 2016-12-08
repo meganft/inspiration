@@ -21,10 +21,15 @@ class Inspiration
       "This is SO cool.",
       "GREAT. GREAT. GREAT",
       "Incredible!",
-      "You're such a rock star."
-      "Nothing great is easy. Keep it up."
-      "AWESOME!"
-      "I'm so proud of you!"]
+      "You're such a rock star.",
+      "Nothing great is easy. Keep it up.",
+      "AWESOME!",
+      "I'm so proud of you!",
+      "Do your best.",
+      "Believe in yourself.",
+      "If it was easy, everyone would do it.",
+      "Shine bright like a diamond!",
+      "Dangggggg."]
   end
 
 end
