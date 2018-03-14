@@ -34,7 +34,11 @@ class Inspiration
       "Love love love!",
       "You are crushing this.",
       "Amazing!",
-      "Your dedication is inspiring!"]
+      "Your dedication is inspiring!",
+      "SO GOOD!",
+      "Don't you date give up.",
+      "Don't dream about success. Work for it."
+    ]
   end
 
 end
