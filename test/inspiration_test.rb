@@ -3,7 +3,6 @@ require 'minitest/pride'
 require './lib/inspiration'
 
 class InspirationTest < Minitest::Test
-
   def test_inspiration_class_exists
     assert Inspiration
   end
@@ -41,9 +40,11 @@ class InspirationTest < Minitest::Test
       "Your dedication is inspiring!",
       "SO GOOD!",
       "Don't you date give up.",
-      "Don't dream about success. Work for it."
+      "Don't dream about success. Work for it.",
+      "Be yourself; everyone else is already taken.",
+      "Be the change that you wish to see in the world.",
+      "Dream Big. Then dream bigger."
     ]
     assert_includes list, Inspiration.inspire
   end
-
 end

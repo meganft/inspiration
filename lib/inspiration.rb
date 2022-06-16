@@ -1,5 +1,6 @@
-class Inspiration
+# frozen_string_literal: true
 
+class Inspiration
   def self.inspire
     quotes_list.sample
   end
@@ -37,8 +38,10 @@ class Inspiration
       "Your dedication is inspiring!",
       "SO GOOD!",
       "Don't you date give up.",
-      "Don't dream about success. Work for it."
+      "Don't dream about success. Work for it.",
+      "Be yourself; everyone else is already taken.",
+      "Be the change that you wish to see in the world.",
+      "Dream Big. Then dream bigger."
     ]
   end
-
 end
